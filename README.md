@@ -8,8 +8,6 @@ Internet connection is not required, as our app runs its model locally on your d
 
 *lib* = All the code (Hoopster app source code + tflite python model)
 
-*my_trained_model_without_pretraining.h5* = TensorFlow trained model in python
-
 *modeltrainerflow.py* = code used to train the tensor flow model in python
 
 *Hoopster report*.pdf = Report on the project

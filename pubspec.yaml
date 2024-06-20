@@ -81,8 +81,6 @@ flutter_icons:
 flutter:
   assets:
     - AssetsFolder\newmodel.tflite
-    - AssetsFolder\model.tflite
-    - AssetsFolder\detect.tflite
     - AssetsFolder\BasketButton.png
     - AssetsFolder\labelmap.txt
   

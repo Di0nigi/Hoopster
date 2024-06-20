@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

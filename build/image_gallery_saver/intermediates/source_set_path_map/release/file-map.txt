@@ -1,0 +1,12 @@
+com.example.imagegallerysaver.image_gallery_saver-jetified-window-java-1.0.0-beta04-0 C:\Users\dioni\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.imagegallerysaver.image_gallery_saver-core-1.6.0-1 C:\Users\dioni\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.imagegallerysaver.image_gallery_saver-jetified-annotation-experimental-1.1.0-2 C:\Users\dioni\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.imagegallerysaver.image_gallery_saver-jetified-window-1.0.0-beta04-3 C:\Users\dioni\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.imagegallerysaver.image_gallery_saver-main-4 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\image_gallery_saver-1.7.1\android\src\main\res
+com.example.imagegallerysaver.image_gallery_saver-release-5 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\image_gallery_saver-1.7.1\android\src\release\res
+com.example.imagegallerysaver.image_gallery_saver-pngs-6 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\generated\res\pngs\release
+com.example.imagegallerysaver.image_gallery_saver-resValues-7 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\generated\res\resValues\release
+com.example.imagegallerysaver.image_gallery_saver-rs-8 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\generated\res\rs\release
+com.example.imagegallerysaver.image_gallery_saver-mergeReleaseResources-9 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.imagegallerysaver.image_gallery_saver-mergeReleaseResources-10 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.imagegallerysaver.image_gallery_saver-merged_res-11 D:\dionigi\Documents\flutter_proj\Hoopster\build\image_gallery_saver\intermediates\merged_res\release

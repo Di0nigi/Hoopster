@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/notification_action.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1:/layout/notification_template_icon_group.xml"
+    }
+]

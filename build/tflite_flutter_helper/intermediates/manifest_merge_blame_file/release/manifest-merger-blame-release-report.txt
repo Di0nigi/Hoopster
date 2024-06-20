@@ -1,0 +1,15 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tfliteflutter.tflite_flutter_helper" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+9-->C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:3:2-68
+9-->C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:3:19-65
+10
+11</manifest>

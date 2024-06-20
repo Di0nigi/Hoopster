@@ -1,0 +1,13 @@
+com.tfliteflutter.tflite_flutter_helper-jetified-window-java-1.0.0-beta04-0 C:\Users\dioni\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.tfliteflutter.tflite_flutter_helper-core-1.6.0-1 C:\Users\dioni\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.tfliteflutter.tflite_flutter_helper-jetified-annotation-experimental-1.1.0-2 C:\Users\dioni\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.tfliteflutter.tflite_flutter_helper-jetified-window-1.0.0-beta04-3 C:\Users\dioni\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.tfliteflutter.tflite_flutter_helper-main-4 C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\res
+com.tfliteflutter.tflite_flutter_helper-release-5 C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\release\res
+com.tfliteflutter.tflite_flutter_helper-packaged_res-6 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\intermediates\packaged_res\release
+com.tfliteflutter.tflite_flutter_helper-pngs-7 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\generated\res\pngs\release
+com.tfliteflutter.tflite_flutter_helper-resValues-8 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\generated\res\resValues\release
+com.tfliteflutter.tflite_flutter_helper-rs-9 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\generated\res\rs\release
+com.tfliteflutter.tflite_flutter_helper-mergeReleaseResources-10 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tfliteflutter.tflite_flutter_helper-mergeReleaseResources-11 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tfliteflutter.tflite_flutter_helper-merged_res-12 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter_helper\intermediates\merged_res\release

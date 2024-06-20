@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout/custom_dialog.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    }
+]

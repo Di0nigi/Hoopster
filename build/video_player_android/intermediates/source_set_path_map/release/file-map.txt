@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-0 C:\Users\dioni\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-1 C:\Users\dioni\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-2 C:\Users\dioni\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-3 C:\Users\dioni\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-4 C:\Users\dioni\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-5 C:\Users\dioni\.gradle\caches\transforms-3\ef2321c8ef384bd7d821c1ecf44a36ab\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.9\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.9\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 D:\dionigi\Documents\flutter_proj\Hoopster\build\video_player_android\intermediates\merged_res\release

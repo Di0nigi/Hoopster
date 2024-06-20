@@ -1,0 +1,12 @@
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-jetified-window-java-1.0.0-beta04-0 C:\Users\dioni\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-core-1.6.0-1 C:\Users\dioni\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-jetified-annotation-experimental-1.1.0-2 C:\Users\dioni\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-jetified-window-1.0.0-beta04-3 C:\Users\dioni\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-main-4 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\tflite_flutter-0.9.5\android\src\main\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-release-5 C:\Users\dioni\AppData\Local\Pub\Cache\hosted\pub.dev\tflite_flutter-0.9.5\android\src\release\res
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-pngs-6 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\generated\res\pngs\release
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-resValues-7 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\generated\res\resValues\release
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-rs-8 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\generated\res\rs\release
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-mergeReleaseResources-9 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-mergeReleaseResources-10 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tfliteflutter.tflite_flutter_plugin.tflite_flutter-merged_res-11 D:\dionigi\Documents\flutter_proj\Hoopster\build\tflite_flutter\intermediates\merged_res\release

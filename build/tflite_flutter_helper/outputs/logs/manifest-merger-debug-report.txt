@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:2:3-52
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:3:2-68
+	android:name
+		ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml:3:19-65
+uses-sdk
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dioni\AppData\Local\Pub\Cache\git\tflite_flutter_helper-43e87d4b9627539266dc20250beb35bf36320dce\android\src\main\AndroidManifest.xml

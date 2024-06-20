@@ -1,0 +1,4 @@
+#Mon Sep 04 22:43:28 CEST 2023
+base.0=D\:\\dionigi\\Documents\\flutter_proj\\Hoopster\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

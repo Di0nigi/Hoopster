@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout-v21/notification_template_custom_big.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout-v21/notification_template_icon_group.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout-v21/notification_action.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "ar.fgsoruco.opencv4.opencv_4-merged_res-11:/layout-v21/notification_action_tombstone.xml",
+        "source": "ar.fgsoruco.opencv4.opencv_4-core-1.6.0-2:/layout-v21/notification_action_tombstone.xml"
+    }
+]
